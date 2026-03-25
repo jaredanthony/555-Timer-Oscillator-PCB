@@ -1,5 +1,11 @@
 # 555-Timer-Oscillator-PCB
 
+## Schematic
+![Schematic](555 timer schematic.png)
+
+## PCB layout
+![PCB](555 timer pcb.png)
+
 This project is a PCB designed in KiCad implementing a 555 timer in astable mode to alternate two LED outputs.
 
 ## Design Overview
